@@ -1,0 +1,27 @@
+### Racket ###
+# gitignore template for the Racket language
+# website: http://www.racket-lang.org/
+
+# DrRacket autosave files
+*.rkt~
+*.rkt.bak
+\#*.rkt#
+\#*.rkt#*#
+
+# Compiled racket bytecode
+compiled/
+*.zo
+
+# Dependency tracking files
+*.dep
+
+### Scheme ###
+*.ss~
+*.ss#*
+.#*.ss
+
+*.scm~
+*.scm#*
+.#*.scm
+
+# End of https://www.toptal.com/developers/gitignore/api/racket,scheme
