@@ -17,7 +17,7 @@ You need [Racket and DrRacket IDE](https://download.racket-lang.org/) installed 
 
 ### Instructions to Run
 
-Open **space-invaders-starter.rkt** file with DrRacket and click <img src="/Users/henrick/Library/Application Support/typora-user-images/image-20211116101939488.png" alt="image-20211116101939488" style="zoom:50%;" /> to execute the tests and get the REPL ready to execute the game.
+Open **space-invaders-starter.rkt** file with DrRacket and click <img src="run.png" alt="run" style="width:50px;" /> to execute the tests and get the REPL ready to execute the game.
 
 Go to the REPL window, in the bottom side of DrRacket and write the following function call to start the game:
 
