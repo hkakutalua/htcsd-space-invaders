@@ -4,10 +4,12 @@ This is my final project for the EDX' course **[How to Code: Simple Data](https:
 
 This game was the amalgamation of everything I learned in the aforementioned course:
 
-- How to think and design computer programs using a systematic design approach
-- How to do domain-analysis by mapping real-world concepts (domain) to data
-- Using recursion and self-referential data definitions for arbitrarly large data such as lists and trees.
-- Having a baptism of fire in a LISP-based language
+- How to think and design computer programs using a systematic design approach.
+- How to do domain-analysis by mapping real-world concepts (domain) to data.
+- Designing and implementing interactive world programs (mostly video-games).
+- Using recursion and self-referential data definitions for arbitrarly large data such as lists and binary trees.
+- How to manage a program growing complexity by using helper functions.
+- Having a baptism of fire in a LISP-based language (parenthesis go brrrrrrr.....((((((((())))))))) ).
 
 <img src="screenshots/screenshot-1.png" alt="screenshot-1" style="width:300px;" />
 
